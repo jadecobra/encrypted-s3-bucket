@@ -5,7 +5,7 @@ const project = new AwsCdkConstructLibrary({
   cdkVersion: '1.95.2',
   defaultReleaseBranch: 'main',
   name: 'encrypted-s3-bucket',
-  repositoryUrl: 'https://github.com/jakeitegsy/encrypted-s3-bucket.git',
+  repositoryUrl: 'https://github.com/jadecobra/encrypted-s3-bucket.git',
 
   // cdkDependencies: undefined,      /* Which AWS CDK modules (those that start with "@aws-cdk/") does this library require when consumed? */
   // cdkTestDependencies: undefined,  /* AWS CDK modules required for testing. */
